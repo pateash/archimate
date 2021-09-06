@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Driver Datapoints"
+    id="id-63355bd0e591404caf4e3d19fe86a5f4">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-84a59f6554de4f15a0a26699135b7d69.xml#id-84a59f6554de4f15a0a26699135b7d69"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-5a7a641f35e545548796e418953492a2.xml#id-5a7a641f35e545548796e418953492a2"/>
+</archimate:FlowRelationship>
